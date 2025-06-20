@@ -2,6 +2,10 @@
 
 A machine learning-based system that translates hand sign gestures into readable text and audio output. This project is aimed at helping individuals with hearing or speech disabilities communicate more effectively through gesture recognition using a webcam.
 
+2. ##Short Description:
+   
+A machine learning-based system that captures hand gestures using a webcam, recognizes sign language through a trained model, and translates it into text or speech to aid communication for individuals with hearing or speech difficulties.
+
 ## Project Summary
 
 This is a final-year BCA Data Science project that focuses on real-time sign language detection using self-collected hand gesture data. The system captures hand gestures, 
@@ -25,16 +29,25 @@ identifies them using a trained ML model, and converts the recognized signs into
 | **NumPy, Pandas**  | Data handling & preprocessing  |
 | **Matplotlib**     | Data visualization             |
 
-Folder Structure
+Folder Structure :
 
-sign-language-ml/
-├── Data/ # Custom gesture image dataset
-│ └── [Gesture folders]/ # Collected gesture categories
-├── datacollection.py # Script to collect training images
-├── test.py # Real-time prediction with webcam
-├── testing.py # Model accuracy/test functions
-├── README.md # Project documentation
-└── requirements.txt # Python library requirements
+bash
+Copy
+Edit
+
+ 📁 project 1.0/
+ 
+├── 📁 Data/               # Images collected from webcam
+
+├── 📁 venv/               # Virtual environment (not uploaded)
+
+├── 📄 datacollection.py   # Script to collect training data
+
+├── 📄 test.py             # Script to test trained model
+
+├── 📄 testing.py          # Additional functionality
+
+├── 📄 README.md           # Project documentation
 
 
 
