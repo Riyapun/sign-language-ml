@@ -1,0 +1,13 @@
+0 A
+1 B
+2 C
+3 D
+4 E
+5 GoodLuck
+6 Heart
+7 hello
+8 j
+9 please
+10 Thankyou
+11 Y
+12 yes
